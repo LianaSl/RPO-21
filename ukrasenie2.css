@@ -1,0 +1,43 @@
+l
+.layot-container{
+    width: 800px;
+    margin: 0 auto;
+}
+    
+body{
+    front-size: 36px;
+    font-weight: 800;
+}
+.header{
+    background-color: green;
+    width: 100vw;
+    height: 20vh;
+
+}
+.footer{
+     background-color: green;
+    width: 100vw;
+    height: 20vh;
+
+
+}
+.parent2{
+    display: flex;
+
+}
+.art{
+    width: 60vw;
+    height: 60vh;
+    background-color: antiquewhite;
+    
+}
+.aside{
+    width: 20vw;
+    background-color: bisque;
+}
+.nav{
+    width: 20vw;
+    background-color: azure;
+}
+
+
