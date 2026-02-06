@@ -17,6 +17,7 @@ body{
 }
 .general-parent{
     display: flex;
+    flex-direction: column;
 }
 .header,
 .footer{
