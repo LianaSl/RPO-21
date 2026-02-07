@@ -1,0 +1,28 @@
+.layot-container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+body{
+    
+    font-size: 36px;
+    font-weight: 800;
+}
+.header,
+.footer{
+    background-color: greenyellow;
+    height: 20vh;
+}
+.parent1{
+    display: flex;
+    height: 60vh;
+
+}
+.nav{
+    background-color: azure;
+    width: 20vw;
+}
+    .art{
+        background-color: aquamarine;
+        width: 60vw;
+    }
